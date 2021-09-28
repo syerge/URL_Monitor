@@ -1,2 +1,2 @@
 https://abc.xyz.com:8443/app1
-https://pkr.xyz.com:8443/dev5
+https://pkr.xyz.com:8443/aap2
