@@ -7,8 +7,8 @@ It will trigger email if the site goes down so before users start complaining ab
 Contributors:
 1. Shrikant Yerge - 2021MT93001
 2. Ashima Gupta - 2021MT93011
-3. Damini Rana
-4. Gaurav Kumar
+3. Damini Rana - Please add your ID
+4. Gaurav Kumar - Please add your ID
 
 Assigment 4 : Open Source
 
